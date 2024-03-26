@@ -8,9 +8,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "readme", "readme", "{6E8F1A
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding.Challenges.Algorithms", "Coding.Challenges.Algorithms\Coding.Challenges.Algorithms\Coding.Challenges.Algorithms.csproj", "{BA5FB8DA-7C68-45D6-BF61-5DCD29B93AF0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding.Challenges.Algorithms", "Coding.Challenges.Algorithms\Coding.Challenges.Algorithms.csproj", "{BA5FB8DA-7C68-45D6-BF61-5DCD29B93AF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding.Challenges.DataStructures", "Coding.Challenges.DataStructures\Coding.Challenges.DataStructures\Coding.Challenges.DataStructures.csproj", "{418A34C6-ACAF-4353-A8A3-9F9BBD9E36D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding.Challenges.DataStructures", "Coding.Challenges.DataStructures\Coding.Challenges.DataStructures.csproj", "{418A34C6-ACAF-4353-A8A3-9F9BBD9E36D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
